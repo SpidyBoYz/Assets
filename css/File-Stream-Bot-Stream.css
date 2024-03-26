@@ -358,12 +358,12 @@ button:active {
     font-size: 40px;
     font-weight: 600;
     text-align: center;
-    padding: 10%;
+    padding: 10%  10% 5%;
 }
 
 .last-text {
     text-align: center;
-    padding: 10%;
+    padding: 10%  10% 5%;
 }
 
 .movie-cont {
